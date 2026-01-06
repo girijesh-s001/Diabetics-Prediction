@@ -1,0 +1,2 @@
+The diabetes.csv is converted to a dataframe by the use of pandas and then that data set is processed by Data Processing . Afterthat data standardization occurs , then that dataset undergoes train_test_split model to train the data for further prediction by the help of SVM (Support Vector Machine) . Accuaracy of Trained data = 0.7866449511400652 ( 79 % )
+Accuaracy of Testing data = 0.7727272727272727 ( 77 % ) . Finally the Diabetes prediction is done by the patient's input_data ( collected data for prediction) and trained model .
